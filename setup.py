@@ -38,7 +38,7 @@ install_requires = [
     'Pillow',
     'scikit-image', 
     'scikit-learn', 
-    'tensorflow-gpu==1.15.0',
+    'tensorflow-gpu==2.4.0',
     'torch', 
     'torchvision', 
     'tqdm',
